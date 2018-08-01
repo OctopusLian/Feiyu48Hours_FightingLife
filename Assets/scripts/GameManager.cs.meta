@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 69f7e5fa9eed2fd41b009af692593b55
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - npcPrefab1: {fileID: 1775862447474280, guid: 48f063482f5c2b64e9c1df0aef39e4c3,
+      type: 2}
+  - npcPrefab2: {fileID: 1354723946211232, guid: 7e28a3eedf2f5cc4eb097d16dc2a775e,
+      type: 2}
+  - npcPrefab3: {fileID: 1037119211589952, guid: 9e4d4f699d5fd9242af0b773afa0024f,
+      type: 2}
+  - m_AimSlider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
